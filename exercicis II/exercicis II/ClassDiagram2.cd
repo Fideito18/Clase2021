@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="exercicis_II.becaris">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAQQAAAEAAAAAAAAAAAAAAAAQAAAAEAgCAg=</HashCode>
+      <FileName>becaris.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="exercicis_II.caps">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>caps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercicis_II.empleat">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAIAAAACAAAAAIAABACAAAQAAQAAAAAAAAAA=</HashCode>
+      <FileName>empleat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercicis_II.Empleats" Collapsed="true">
+    <Position X="14.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wAQhEABACAAQhQAkAiDAQACBBAICBECPGEAAJQQJDA=</HashCode>
+      <FileName>Empleats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercicis_II.obrers">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIIAAAACAAAAAAAAAAAAAAABAAAAAQAAIAAA=</HashCode>
+      <FileName>obrers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercicis_II.Program" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercicis_II.qualificats">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAEAAAAAAAAAAAAIAAABCAAAAQAAAA=</HashCode>
+      <FileName>qualificats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercicis_II.Properties.Resources" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercicis_II.Properties.Settings" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="exercicis_II.estudiants">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAgCAA=</HashCode>
+      <FileName>estudiants.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

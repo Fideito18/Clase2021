@@ -1,0 +1,19 @@
+E:\DAW\Entorns\3r Trimestre\UNITAT 8\exercicis II\exercicis II\bin\Debug\exercicis II.exe.config
+E:\DAW\Entorns\3r Trimestre\UNITAT 8\exercicis II\exercicis II\obj\Debug\exercicis II.csprojResolveAssemblyReference.cache
+E:\DAW\Entorns\3r Trimestre\UNITAT 8\exercicis II\exercicis II\obj\Debug\exercicis_II.Properties.Resources.resources
+E:\DAW\Entorns\3r Trimestre\UNITAT 8\exercicis II\exercicis II\obj\Debug\exercicis II.csproj.GenerateResource.Cache
+E:\DAW\Entorns\3r Trimestre\UNITAT 8\exercicis II\exercicis II\bin\Debug\exercicis II.exe
+E:\DAW\Entorns\3r Trimestre\UNITAT 8\exercicis II\exercicis II\bin\Debug\exercicis II.pdb
+E:\DAW\Entorns\3r Trimestre\UNITAT 8\exercicis II\exercicis II\obj\Debug\exercicis II.exe
+E:\DAW\Entorns\3r Trimestre\UNITAT 8\exercicis II\exercicis II\obj\Debug\exercicis II.pdb
+E:\DAW\Entorns\3r Trimestre\UNITAT 8\exercicis II\exercicis II\obj\Debug\exercicis_II.Empleats.resources
+C:\Users\admin\Desktop\exercicis II\exercicis II\bin\Debug\exercicis II.exe.config
+C:\Users\admin\Desktop\exercicis II\exercicis II\bin\Debug\exercicis II.exe
+C:\Users\admin\Desktop\exercicis II\exercicis II\bin\Debug\exercicis II.pdb
+C:\Users\admin\Desktop\exercicis II\exercicis II\obj\Debug\exercicis II.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\exercicis II\exercicis II\obj\Debug\exercicis_II.Empleats.resources
+C:\Users\admin\Desktop\exercicis II\exercicis II\obj\Debug\exercicis_II.Properties.Resources.resources
+C:\Users\admin\Desktop\exercicis II\exercicis II\obj\Debug\exercicis II.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\exercicis II\exercicis II\obj\Debug\exercicis II.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\exercicis II\exercicis II\obj\Debug\exercicis II.exe
+C:\Users\admin\Desktop\exercicis II\exercicis II\obj\Debug\exercicis II.pdb
